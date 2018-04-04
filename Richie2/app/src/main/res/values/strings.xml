@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Richie my bb >3</string>
+    <string name="large_text">
+        "I know most girlfriends write their lovers cute \nletters and shit but I decided to make you an app
+        because that's just how I roll fam :P\n\n"
+
+        "I want you to know that I think of you everyday and that I do care about you a lot. "
+        "I know I don't say it often enough or message you constantly or send you lots of funny"
+        "memes BUT you have to believe me when I proclaim that I am madly in love with you\n\n"
+        ":) And may the scrolling begin" \n\n
+
+        "Bb I want you to know that I really appreciate all the little things you do to make me happy. \n"
+        "I secretly love it when you compliment me and I love the way you make me feel like I'm really"
+        "funny and smart and pretty even though I know I'm just a coco potato.\n"
+
+        "I really loved the fact that you flew up to visit me after your gonggong's passing just"
+        "so we could spend quality time together."
+        "We both know we should have been productive that weekend but at least it was fun :P \n\n"
+
+        "Thank you for always letting me pick the food we eat and almost all the activities that we"
+        "do. I'm grateful that you're a simple man who just enjoys frolicking around with me."
+        "Whether its a sunset hike, hackathon, TedTalk or just chilling at the beach, you have been"
+        "my favorite ADVENTURE BUDDY!!!\n"
+        "Thank you for keeping me warm. I get tingles every time I feel your skin against my skin"
+        "and when I can smell the distinctive swagger.\n\n"
+        "PS it smells different on you versus when other people wear it.\n\n"
+
+        "I love you more than sexy times but I will admit, once you gave me sexy times, my body "
+        "craved more and more of Richie."
+        "Night after night, morning after morning, HOUR AFTER HOUR, you continue to blow my mind in"
+        "such ways that all our neighbors probably hate us ;)"
+        "\nSince we are both still kids in our twenties, lets keep the party going until you're soft and I'm dry :P\n"
+        "
+        >3
+        \n"
+        "Now to pop the question *grabs whatever courage I have left* \n"
+        "\n
+        Dear Richie,
+        Will you accept my awkward but enduring love and be my boyfriend? Do you promise to not hurt"
+        "me and to love me even though I can be a spontaneous hot mess?\n"
+        "If so, then this is the point where we can hug and I can enjoy this moment where we are in each other's arms."
+        "\n I secretly hope that you agree to keep our anniversary date as
+        JUNE 24, 2017__06/24/2016
+        rather than have me remember whatever day I decided to show you this app >3 \n\n"
+
+        "Even if you reject my love, I want you to know that I wish you the best in life and I hope"
+        "you find happiness in whatever you choose to pursue and with whomever you decide to share your"
+        "affections with. I know you will do great things and frankly, you don't need me to achieve them.\n\n"
+
+        "But hopefully I can look forward to a future with many more adventures WITH YOU :D\n"
+        "You can be the french fries to my tater tot, and together we will taste fabulous dipped in matcha ice cream\n"
+        "Thank you for your patience and I hope your day was as amazing as you :)\n\n"
+
+        "With lots of love,
+        (haha like more than a jar of pickles)\n\n"
+        "Colleen Lau, cocoa tater tots
+        >3\n"
+        <!--
+            things I like that he did/does
+            funny inside jokes
+            future
+            ask the question
+        -->
+
+    </string>
+    <string name="action_settings">Pics</string>
+    <string name="title_activity_settings">Cute Things</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Important</string>
+
+    <string name="pref_title_social_recommendations">Are you Richie Chio?</string>
+    <string name="pref_description_social_recommendations">A cute checklist of all the things that
+        makes Richie the great bb that he is >3
+    </string>
+
+    <string name="pref_title_display_name">Yo name</string>
+    <string name="pref_default_display_name">Richie Chio</string>
+
+    <string name="pref_title_add_friends_to_messages">Talk to me fam</string>
+    <string-array name="pref_example_list_titles">
+        <item>Never</item>
+        <item>When possible</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications - talk to Coco </string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_scrolling2">Scroll me more</string>
+</resources>
